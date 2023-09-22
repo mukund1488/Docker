@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="gamesys-pe-maven" />
+      <option name="name" value="Gamesys Player Engagement build repository" />
+      <option name="url" value="https://artifactory.gamesys.co.uk:443/artifactory/gamesys-pe-maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gamesys-core-public" />
+      <option name="name" value="Gamesys Core Public repository" />
+      <option name="url" value="https://artifactory.gamesys.co.uk:443/artifactory/gamesys-core-public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="gamesys-ps-cashier-maven-release" />
+      <option name="url" value="https://artifactory.gamesys.co.uk/artifactory/gamesys-ps-cashier-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gamesys-ps-incentive-private-maven-build" />
+      <option name="name" value="Gamesys Player Services Incentive private Maven Release" />
+      <option name="url" value="https://artifactory.gamesys.co.uk:443/artifactory/gamesys-ps-incentive-private-maven-build" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gamesys-releases" />
+      <option name="name" value="Gamesys Player Services build repository" />
+      <option name="url" value="https://artifactory.gamesys.co.uk:443/artifactory/gamesys-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gamesys-ps-private-docker-build-v2" />
+      <option name="name" value="Gamesys Player Services Docker build repository V2" />
+      <option name="url" value="https://gamesys-ps-private-docker-build.artifactory.gamesys.co.uk" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gamesys-ps-private-docker-build" />
+      <option name="name" value="Gamesys Player Services Docker build repository" />
+      <option name="url" value="https://artifactory.gamesys.co.uk:443/artifactory/gamesys-ps-private-docker-build" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gamesys-ps-incentive-maven-release" />
+      <option name="name" value="Gamesys Player Services Incentive Maven Release" />
+      <option name="url" value="https://artifactory.gamesys.co.uk:443/artifactory/gamesys-ps-incentive-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="gamesys-excite-sportsbook-maven-snapshots-virtual" />
+      <option name="url" value="https://artifactory.gamesys.co.uk/artifactory/gamesys-excite-sportsbook-maven-snapshots-virtual" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gamesys-ps-public-maven-build" />
+      <option name="name" value="gamesys-ps-public-maven-build" />
+      <option name="url" value="https://artifactory.gamesys.co.uk/artifactory/gamesys-ps-public-maven-build" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gamesys-ps-maven-release" />
+      <option name="name" value="Gamesys Player Service Maven Release" />
+      <option name="url" value="https://artifactory.gamesys.co.uk:443/artifactory/gamesys-ps-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="gamesys-ps-cashier-maven-snapshots" />
+      <option name="url" value="https://artifactory.gamesys.co.uk/artifactory/gamesys-ps-cashier-maven-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="gamesys-excite-sportsbook-maven-release-virtual" />
+      <option name="url" value="https://artifactory.gamesys.co.uk/artifactory/gamesys-excite-sportsbook-maven-release-virtual" />
+    </remote-repository>
+  </component>
+</project>

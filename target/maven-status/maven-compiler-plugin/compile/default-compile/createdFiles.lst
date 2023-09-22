@@ -1,0 +1,4 @@
+org/example/repository/UserRepository.class
+org/example/Main.class
+org/example/controller/SampleController.class
+org/example/domain/User.class
