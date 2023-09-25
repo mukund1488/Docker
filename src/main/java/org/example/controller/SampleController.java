@@ -13,6 +13,6 @@ public class SampleController {
 
     @GetMapping("/test")
     public User getInfo() {
-        return userRepository.getReferenceById(1L);
+        return userRepository.findById(1L).orElse(null);
     }
 }
